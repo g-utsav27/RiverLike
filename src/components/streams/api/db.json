@@ -1,0 +1,46 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "This is the First Stream",
+      "userId": "115557780615699831194",
+      "id": 23
+    },
+    {
+      "title": "Second Stream",
+      "description": "This is the Second Stream",
+      "userId": "115557780615699831194",
+      "id": 24
+    },
+    {
+      "title": "Third stream",
+      "description": "This is the third stream",
+      "userId": "115557780615699831194",
+      "id": 25
+    },
+    {
+      "title": "fourth stream",
+      "description": "why i have to make all of these strems unneccesary",
+      "userId": "115557780615699831194",
+      "id": 26
+    },
+    {
+      "title": "drgdfgdf",
+      "description": "gdfgdfgdfg",
+      "userId": "115557780615699831194",
+      "id": 27
+    },
+    {
+      "title": "stream",
+      "description": "this is a stream",
+      "userId": "115557780615699831194",
+      "id": 28
+    },
+    {
+      "title": "fsfsafsdf",
+      "description": "fasdfasdfasf",
+      "userId": "115557780615699831194",
+      "id": 29
+    }
+  ]
+}
